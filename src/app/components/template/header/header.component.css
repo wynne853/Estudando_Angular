@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(102, 106, 122, 0.50);
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    width: 100px;
+    height: 55px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 2px #4605fc solid;
+    border-bottom: 3px #4605fc dashed;
+    border-right: 3px #4605fc dashed;
+}
+
+.group-menu{
+    display: flex;
+    justify-self: flex-end;
+    color: blue;
+}
+
+.group-menu a{
+    display: flex;
+    align-items: center;
+    margin:  0px 5px;
+}
+
+.group-menu a:hover{
+    display: flex;
+    align-items: center;
+    color: #4605fc;
+}
+
+.group-menu a:active{
+    display: flex;
+    align-items: center;
+    color: #fc05e7;
+}

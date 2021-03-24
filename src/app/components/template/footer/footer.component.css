@@ -1,0 +1,11 @@
+.footer{
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    bottom: 0;
+    font-size: 1rem;
+}
+
+.name_igesp{
+    color: rgb(255, 166, 1);
+}
