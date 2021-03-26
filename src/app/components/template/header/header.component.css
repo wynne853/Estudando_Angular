@@ -26,13 +26,13 @@
 .group-menu{
     display: flex;
     justify-self: flex-end;
-    color: blue;
 }
 
 .group-menu a{
     display: flex;
     align-items: center;
     margin:  0px 5px;
+    color: #4605fc;
 }
 
 .group-menu a:hover{

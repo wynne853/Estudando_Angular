@@ -1,0 +1,16 @@
+.icon_menu{
+    margin: 0px 10px 0px 5px;
+}
+
+.side_nav{
+    background-color: azure;
+    width: 200px;
+}
+
+.side_nav a {
+    color: #4605fc;
+}
+
+.side_nav a:active{
+    color: #fc05e7;
+}
